@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/nftapptest/static/css/main.a617e044.chunk.css",
-    "main.js": "/nftapptest/static/js/main.9f56f81c.chunk.js",
-    "main.js.map": "/nftapptest/static/js/main.9f56f81c.chunk.js.map",
+    "main.js": "/nftapptest/static/js/main.f8608651.chunk.js",
+    "main.js.map": "/nftapptest/static/js/main.f8608651.chunk.js.map",
     "runtime-main.js": "/nftapptest/static/js/runtime-main.9a9525b1.js",
     "runtime-main.js.map": "/nftapptest/static/js/runtime-main.9a9525b1.js.map",
-    "static/js/2.a907b031.chunk.js": "/nftapptest/static/js/2.a907b031.chunk.js",
-    "static/js/2.a907b031.chunk.js.map": "/nftapptest/static/js/2.a907b031.chunk.js.map",
+    "static/js/2.40efdb6f.chunk.js": "/nftapptest/static/js/2.40efdb6f.chunk.js",
+    "static/js/2.40efdb6f.chunk.js.map": "/nftapptest/static/js/2.40efdb6f.chunk.js.map",
     "static/js/3.39993ba4.chunk.js": "/nftapptest/static/js/3.39993ba4.chunk.js",
     "static/js/3.39993ba4.chunk.js.map": "/nftapptest/static/js/3.39993ba4.chunk.js.map",
     "index.html": "/nftapptest/index.html",
     "static/css/main.a617e044.chunk.css.map": "/nftapptest/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a907b031.chunk.js.LICENSE.txt": "/nftapptest/static/js/2.a907b031.chunk.js.LICENSE.txt",
+    "static/js/2.40efdb6f.chunk.js.LICENSE.txt": "/nftapptest/static/js/2.40efdb6f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/nftapptest/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9a9525b1.js",
-    "static/js/2.a907b031.chunk.js",
+    "static/js/2.40efdb6f.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.9f56f81c.chunk.js"
+    "static/js/main.f8608651.chunk.js"
   ]
 }
